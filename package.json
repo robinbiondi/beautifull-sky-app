@@ -1,0 +1,22 @@
+{
+  "name": "beautifull-sky-app",
+  "version": "1.0.0",
+  "description": "Cordova app displaying beautifull colors",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbiondi/beautifull-sky-app.git"
+  },
+  "author": "Robin Biondi (robin.bion@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinbiondi/beautifull-sky-app/issues"
+  },
+  "homepage": "https://github.com/robinbiondi/beautifull-sky-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
