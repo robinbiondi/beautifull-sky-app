@@ -1,0 +1,5 @@
+node_modules/*
+beautifull-sky/hooks/*
+beautifull-sky/platforms/*
+beautifull-sky/plugins/*
+beautifull-sky/www/node_modules/*
